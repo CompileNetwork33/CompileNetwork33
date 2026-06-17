@@ -8,3 +8,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileNetwork33&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=CompileNetwork33&color=blue)
+# Hi 👋, I'm Vaishnavi
+
+🎓 Student
+💻 Learning Python, DSA and Machine Learning
+🌱 Currently improving my coding skills
+🚀 Building projects and exploring GitHub
